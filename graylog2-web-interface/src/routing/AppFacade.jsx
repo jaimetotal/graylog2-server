@@ -11,6 +11,7 @@ const ServerAvailabilityStore = StoreProvider.getStore('ServerAvailability');
 const CurrentUserStore = StoreProvider.getStore('CurrentUser');
 
 import 'javascripts/shims/styles/shim.css';
+import 'bootstrap/dist/css/bootstrap.css';
 import 'stylesheets/font-awesome.min.css';
 import 'stylesheets/newfonts.less';
 import 'stylesheets/bootstrap-submenus.less';
